@@ -1,0 +1,802 @@
+[
+  {
+    "id": "180001",
+    "text": "The rain in Vellore has been non-stop since last night. Roads are starting to get waterlogged. #VelloreRains",
+    "created_at": "2025-10-21T08:15:00.000Z",
+    "author_id": "user001",
+    "location": "Vellore, India",
+    "geo_data": null
+  },
+  {
+    "id": "180002",
+    "text": "Severe waterlogging reported on Arcot Road near the new bus stand. Traffic is moving very slowly. #VelloreFloods",
+    "created_at": "2025-10-21T08:45:10.000Z",
+    "author_id": "user002",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1425, 12.9293]}
+  },
+  {
+    "id": "180003",
+    "text": "Palar River water level is rising alarmingly fast. Authorities have issued a warning for people living on the banks. #PalarRiver #Vellore",
+    "created_at": "2025-10-21T09:02:30.000Z",
+    "author_id": "vellorenewsline",
+    "location": "Vellore, Tamil Nadu",
+    "geo_data": null
+  },
+  {
+    "id": "180004",
+    "text": "Can anyone confirm if the Old Bridge on Palar is still open? Hearing scary things. #Vellore",
+    "created_at": "2025-10-21T09:20:00.000Z",
+    "author_id": "user003",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180005",
+    "text": "Water has entered the ground floor of our apartment complex in Gandhi Nagar. We are moving upstairs. #VelloreFloods #Help",
+    "created_at": "2025-10-21T09:35:15.000Z",
+    "author_id": "user004",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1300, 12.9250]}
+  },
+  {
+    "id": "180006",
+    "text": "Power has been cut in the Thorapadi area for the last hour as a precaution. #VelloreRains #PowerCut",
+    "created_at": "2025-10-21T09:50:00.000Z",
+    "author_id": "user005",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180007",
+    "text": "My timeline is flooded with pictures of the rain. Stay safe out there, everyone.",
+    "created_at": "2025-10-21T10:05:00.000Z",
+    "author_id": "user006",
+    "location": "Chennai",
+    "geo_data": null
+  },
+  {
+    "id": "180008",
+    "text": "Update: Arcot Road is now completely blocked by water. Do not attempt to travel. #Vellore",
+    "created_at": "2025-10-21T10:15:20.000Z",
+    "author_id": "user007",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1425, 12.9293]}
+  },
+  {
+    "id": "180009",
+    "text": "Official Announcement: A relief shelter has been opened at the Vellore Town Hall. All are welcome. #VelloreFloods #VelloreCollector",
+    "created_at": "2025-10-21T10:30:00.000Z",
+    "author_id": "collectorvellore",
+    "location": "Vellore District",
+    "geo_data": null
+  },
+  {
+    "id": "180010",
+    "text": "Hearing reports that the Old Bridge has been damaged by the force of the Palar river. Authorities are on site. #Vellore",
+    "created_at": "2025-10-21T10:45:00.000Z",
+    "author_id": "user008",
+    "location": "Katpadi",
+    "geo_data": null
+  },
+  {
+    "id": "180011",
+    "text": "Katpadi junction is completely submerged. Please use alternate routes. #VelloreRains",
+    "created_at": "2025-10-21T11:00:00.000Z",
+    "author_id": "user009",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1350, 12.9400]}
+  },
+  {
+    "id": "180012",
+    "text": "We need food and water at the Town Hall shelter. Around 50 people here already. Please help if you can. #Vellore #Help",
+    "created_at": "2025-10-21T11:15:45.000Z",
+    "author_id": "user010",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180013",
+    "text": "Praying for Vellore. The images coming out are heartbreaking.",
+    "created_at": "2025-10-21T11:25:00.000Z",
+    "author_id": "user011",
+    "location": "Bangalore",
+    "geo_data": null
+  },
+  {
+    "id": "180014",
+    "text": "Drinking water supply has been cut off in the Bagayam area due to contamination fears. #VelloreFloods",
+    "created_at": "2025-10-21T11:40:00.000Z",
+    "author_id": "user012",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180015",
+    "text": "CONFIRMED: The Old Bridge over the Palar River has partially collapsed. It is completely closed to all traffic. #Vellore #BridgeCollapse",
+    "created_at": "2025-10-21T11:55:00.000Z",
+    "author_id": "vellorenewsline",
+    "location": "Vellore, Tamil Nadu",
+    "geo_data": {"type": "Point", "coordinates": [79.1388, 12.9213]}
+  },
+  {
+    "id": "180016",
+    "text": "I can see the water from my window, it's like the whole city is a river. So scary. #VelloreRains",
+    "created_at": "2025-10-21T12:10:00.000Z",
+    "author_id": "user013",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180017",
+    "text": "My friend in Gandhi Nagar says their entire street is underwater. They need help! #Vellore",
+    "created_at": "2025-10-21T12:20:15.000Z",
+    "author_id": "user014",
+    "location": "Chennai",
+    "geo_data": null
+  },
+  {
+    "id": "180018",
+    "text": "The flood of investment in Vellore's tech sector will be beneficial for the region's long-term growth.",
+    "created_at": "2025-10-21T12:30:00.000Z",
+    "author_id": "businessanalyst",
+    "location": "Tamil Nadu, India",
+    "geo_data": null
+  },
+  {
+    "id": "180019",
+    "text": "Emergency Helpline Numbers for Vellore District: 1077, 0416-2258016. Please share widely. #VelloreFloods #Helpline",
+    "created_at": "2025-10-21T12:45:00.000Z",
+    "author_id": "collectorvellore",
+    "location": "Vellore District",
+    "geo_data": null
+  },
+  {
+    "id": "180020",
+    "text": "Around 100 people are now sheltered at the Voorhees College auditorium. We are in urgent need of blankets and baby food. #Vellore #Help",
+    "created_at": "2025-10-21T13:00:00.000Z",
+    "author_id": "user015",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1330, 12.9195]}
+  },
+  {
+    "id": "180021",
+    "text": "Just heard a loud noise. Is the old bridge really gone? #Vellore",
+    "created_at": "2025-10-21T13:10:30.000Z",
+    "author_id": "user016",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180022",
+    "text": "Waterlogging is bad in Saidapet as well. Many small shops are completely flooded. #VelloreFloods",
+    "created_at": "2025-10-21T13:25:00.000Z",
+    "author_id": "user017",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1251, 12.9248]}
+  },
+  {
+    "id": "180023",
+    "text": "The Collector's office has confirmed that the Old Bridge has suffered a partial collapse. Please stay away from the area.",
+    "created_at": "2025-10-21T13:40:00.000Z",
+    "author_id": "user018",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180024",
+    "text": "Our basement is completely flooded. Lost everything. #VelloreRains",
+    "created_at": "2025-10-21T13:55:50.000Z",
+    "author_id": "user019",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180025",
+    "text": "Cell service is getting patchy. If you need to contact someone, do it now. #Vellore",
+    "created_at": "2025-10-21T14:10:00.000Z",
+    "author_id": "user020",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180026",
+    "text": "The road to CMC Hospital is blocked. How are ambulances supposed to get through? This is a crisis. #VelloreFloods",
+    "created_at": "2025-10-21T14:25:00.000Z",
+    "author_id": "user021",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1385, 12.9208]}
+  },
+  {
+    "id": "180027",
+    "text": "Please share! Voorhees college is sheltering people and they need baby food and blankets! #VelloreHelp",
+    "created_at": "2025-10-21T14:40:15.000Z",
+    "author_id": "user022",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180028",
+    "text": "My new song just dropped! Hope it brings a flood of good vibes during these tough times.",
+    "created_at": "2025-10-21T14:55:00.000Z",
+    "author_id": "djmusic",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180029",
+    "text": "Power is out in most of Katpadi now. Stay charged, everyone. #Vellore",
+    "created_at": "2025-10-21T15:10:00.000Z",
+    "author_id": "user023",
+    "location": "Katpadi",
+    "geo_data": null
+  },
+  {
+    "id": "180030",
+    "text": "Landslide reported on the road to Yelagiri Hills from Vaniyambadi. The route is blocked. #Yelagiri #Landslide",
+    "created_at": "2025-10-21T15:25:00.000Z",
+    "author_id": "user024",
+    "location": "Vaniyambadi",
+    "geo_data": null
+  },
+  {
+    "id": "180031",
+    "text": "The ground floor of the Government Law College is completely flooded. All records are at risk. #VelloreFloods",
+    "created_at": "2025-10-21T15:40:00.000Z",
+    "author_id": "user025",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1360, 12.9350]}
+  },
+  {
+    "id": "180032",
+    "text": "The response from the disaster management team seems slow. We reported the issue in Gandhi Nagar 3 hours ago. #Vellore",
+    "created_at": "2025-10-21T15:55:00.000Z",
+    "author_id": "user004",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1300, 12.9250]}
+  },
+  {
+    "id": "180033",
+    "text": "Is anyone organizing food packet distribution? Many daily wage workers are stranded without food. #VelloreHelp",
+    "created_at": "2025-10-21T16:10:00.000Z",
+    "author_id": "user026",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180034",
+    "text": "Official Update: NDRF teams have been deployed to low-lying areas in Vellore. Please cooperate with rescue personnel. #NDRF #VelloreFloods",
+    "created_at": "2025-10-21T16:25:00.000Z",
+    "author_id": "collectorvellore",
+    "location": "Vellore District",
+    "geo_data": null
+  },
+  {
+    "id": "180035",
+    "text": "Horrible situation. The entire market area near the fort is underwater. #Vellore",
+    "created_at": "2025-10-21T16:40:00.000Z",
+    "author_id": "user027",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1332, 12.9160]}
+  },
+  {
+    "id": "180036",
+    "text": "The rain has finally slowed down a bit. Hope the water starts receding soon.",
+    "created_at": "2025-10-21T16:55:00.000Z",
+    "author_id": "user028",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180037",
+    "text": "Beware of snakes and other reptiles in floodwaters. Be extremely careful when wading through water. #VelloreFloods #Safety",
+    "created_at": "2025-10-21T17:10:00.000Z",
+    "author_id": "user029",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180038",
+    "text": "The way the community is coming together to help each other is amazing. That's the spirit of Vellore.",
+    "created_at": "2025-10-21T17:25:00.000Z",
+    "author_id": "user030",
+    "location": "Vellore, India",
+    "geo_data": null
+  },
+  {
+    "id": "180039",
+    "text": "The main road to the Vellore Institute of Technology campus is flooded. No one can get in or out. #VIT #Vellore",
+    "created_at": "2025-10-21T17:40:00.000Z",
+    "author_id": "user031",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180040",
+    "text": "We need help evacuating an elderly person from a flooded house in Kosapet. Please send rescue teams. Address available. #VelloreHelp",
+    "created_at": "2025-10-21T17:55:00.000Z",
+    "author_id": "user032",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1305, 12.9150]}
+  },
+  {
+    "id": "180041",
+    "text": "Confirmed another shelter is open at Don Bosco School, Katpadi. They have space for another 200 people. #Vellore",
+    "created_at": "2025-10-21T18:10:00.000Z",
+    "author_id": "user033",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180042",
+    "text": "All exams at VIT have been postponed until further notice due to the flood situation. #VIT #VelloreFloods",
+    "created_at": "2025-10-21T18:25:00.000Z",
+    "author_id": "vitofficial",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180043",
+    "text": "I can't reach my family in Saidapet. The phones are not connecting. I am very worried.",
+    "created_at": "2025-10-21T18:40:00.000Z",
+    "author_id": "user034",
+    "location": "Chennai",
+    "geo_data": null
+  },
+  {
+    "id": "180044",
+    "text": "The new bridge is holding up, but the approach roads are flooded. Traffic is being diverted. #Vellore",
+    "created_at": "2025-10-21T18:55:00.000Z",
+    "author_id": "user035",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1400, 12.9220]}
+  },
+  {
+    "id": "180045",
+    "text": "Thank you to the local fishermen who have brought their boats to help with rescue operations in the city. True heroes! #VelloreFloods",
+    "created_at": "2025-10-21T19:10:00.000Z",
+    "author_id": "user036",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180046",
+    "text": "Can someone please share the helpline numbers again? #VelloreHelp",
+    "created_at": "2025-10-21T19:25:00.000Z",
+    "author_id": "user037",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180047",
+    "text": "The wall of a house has collapsed in Sathuvachari. Fortunately, no one was injured. #VelloreRains",
+    "created_at": "2025-10-21T19:40:00.000Z",
+    "author_id": "user038",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180048",
+    "text": "The sheer volume of water is unbelievable. This is worse than the 2015 floods.",
+    "created_at": "2025-10-21T19:55:00.000Z",
+    "author_id": "user039",
+    "location": "Vellore, India",
+    "geo_data": null
+  },
+  {
+    "id": "180049",
+    "text": "Is the Government Law College being used as a shelter? Need confirmation. #Vellore",
+    "created_at": "2025-10-21T20:10:00.000Z",
+    "author_id": "user040",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180050",
+    "text": "This flood of misinformation is not helping anyone. Please only share verified information from official sources. #VelloreFloods",
+    "created_at": "2025-10-21T20:25:00.000Z",
+    "author_id": "user041",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180051",
+    "text": "The bus services from Vellore to Chennai have been suspended until further notice.",
+    "created_at": "2025-10-21T20:40:00.000Z",
+    "author_id": "tnstc",
+    "location": "Tamil Nadu",
+    "geo_data": null
+  },
+  {
+    "id": "180052",
+    "text": "My uncle is a farmer near Gudiyatham. He says his entire crop is destroyed. This is a tragedy for our farmers.",
+    "created_at": "2025-10-21T20:55:00.000Z",
+    "author_id": "user042",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180053",
+    "text": "There are about 150 people at Voorhees College shelter. They need food and dry clothes. #VelloreHelp",
+    "created_at": "2025-10-21T21:10:00.000Z",
+    "author_id": "volunteer01",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1330, 12.9195]}
+  },
+  {
+    "id": "180054",
+    "text": "Just got power back in our area. Hope it stays. #Vellore",
+    "created_at": "2025-10-21T21:25:00.000Z",
+    "author_id": "user043",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180055",
+    "text": "The army has been called in to assist with rescue operations. #VelloreFloods #IndianArmy",
+    "created_at": "2025-10-21T21:40:00.000Z",
+    "author_id": "newsupdate",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180056",
+    "text": "Stay indoors. Stay safe. Don't venture out unless absolutely necessary.",
+    "created_at": "2025-10-21T21:55:00.000Z",
+    "author_id": "user044",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180057",
+    "text": "The government has announced financial aid for those affected by the flood.",
+    "created_at": "2025-10-21T22:10:00.000Z",
+    "author_id": "user045",
+    "location": "Tamil Nadu",
+    "geo_data": null
+  },
+  {
+    "id": "180058",
+    "text": "My car is floating down the street. I can't believe this is happening.",
+    "created_at": "2025-10-21T22:25:00.000Z",
+    "author_id": "user046",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180059",
+    "text": "I can't believe the old bridge collapsed. So many memories. #Vellore",
+    "created_at": "2025-10-21T22:40:00.000Z",
+    "author_id": "user047",
+    "location": "Vellore, India",
+    "geo_data": null
+  },
+  {
+    "id": "180060",
+    "text": "Volunteers are distributing food packets in Saidapet. God bless them. #VelloreHelp",
+    "created_at": "2025-10-21T22:55:00.000Z",
+    "author_id": "user048",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1251, 12.9248]}
+  },
+  {
+    "id": "180061",
+    "text": "The situation in Gandhi Nagar is still critical. Water has not receded. #VelloreFloods",
+    "created_at": "2025-10-21T23:10:00.000Z",
+    "author_id": "user049",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180062",
+    "text": "All trains passing through Katpadi are delayed or cancelled. Please check with railways. #IndianRailways",
+    "created_at": "2025-10-21T23:25:00.000Z",
+    "author_id": "railwayinfo",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180063",
+    "text": "So much respect for the NDRF teams working tirelessly on the ground. #Vellore",
+    "created_at": "2025-10-21T23:40:00.000Z",
+    "author_id": "user050",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180064",
+    "text": "Does anyone know if the road to the airport is clear?",
+    "created_at": "2025-10-21T23:55:00.000Z",
+    "author_id": "user051",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180065",
+    "text": "Just donated to the CM's relief fund. Every little bit helps. #VelloreFloods",
+    "created_at": "2025-10-22T00:10:00.000Z",
+    "author_id": "user052",
+    "location": "Bangalore",
+    "geo_data": null
+  },
+  {
+    "id": "180066",
+    "text": "The market is completely shut down. No vegetables or milk available. #Vellore",
+    "created_at": "2025-10-22T00:25:00.000Z",
+    "author_id": "user053",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180067",
+    "text": "The new government policies will bring a flood of opportunities for small businesses.",
+    "created_at": "2025-10-22T00:40:00.000Z",
+    "author_id": "economist",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180068",
+    "text": "Is anyone else's internet down? Can't get any work done.",
+    "created_at": "2025-10-22T00:55:00.000Z",
+    "author_id": "user054",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180069",
+    "text": "The visuals from the Vellore flood are devastating. My thoughts are with the people affected.",
+    "created_at": "2025-10-22T01:10:00.000Z",
+    "author_id": "celebrity",
+    "location": "Mumbai",
+    "geo_data": null
+  },
+  {
+    "id": "180070",
+    "text": "A temporary medical camp has been set up near the new bus stand. Doctors are available. #VelloreHelp #MedicalCamp",
+    "created_at": "2025-10-22T01:25:00.000Z",
+    "author_id": "healthdept",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1425, 12.9293]}
+  },
+  {
+    "id": "180071",
+    "text": "The electricity board is working to restore power in Thorapadi. Please be patient.",
+    "created_at": "2025-10-22T01:40:00.000Z",
+    "author_id": "tneb",
+    "location": "Tamil Nadu",
+    "geo_data": null
+  },
+  {
+    "id": "180072",
+    "text": "My apartment's water tank is empty and the drinking water supply is cut. What do we do? #Bagayam #Vellore",
+    "created_at": "2025-10-22T01:55:00.000Z",
+    "author_id": "user012",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180073",
+    "text": "The rain seems to have stopped for now. A small relief.",
+    "created_at": "2025-10-22T02:10:00.000Z",
+    "author_id": "user055",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180074",
+    "text": "I hope the government is prepared for the risk of water-borne diseases after the flood recedes.",
+    "created_at": "2025-10-22T02:25:00.000Z",
+    "author_id": "user056",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180075",
+    "text": "There are people stranded on their rooftops in Sainathapuram. They need immediate air rescue. #VelloreFloods #Rescue",
+    "created_at": "2025-10-22T02:40:00.000Z",
+    "author_id": "user057",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1280, 12.9090]}
+  },
+  {
+    "id": "180076",
+    "text": "The mobile charging station at the Town Hall shelter is now functional. #VelloreHelp",
+    "created_at": "2025-10-22T02:55:00.000Z",
+    "author_id": "volunteer02",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180077",
+    "text": "Looking for my lost dog. He is a brown labrador and got scared by the rain. Last seen near Gandhi Nagar. #Vellore #LostDog",
+    "created_at": "2025-10-22T03:10:00.000Z",
+    "author_id": "user058",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180078",
+    "text": "The new movie release is expected to see a flood of audience reviews this weekend.",
+    "created_at": "2025-10-22T03:25:00.000Z",
+    "author_id": "moviecritic",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180079",
+    "text": "The water level of the Palar is slowly starting to go down. Good news. #Vellore",
+    "created_at": "2025-10-22T03:40:00.000Z",
+    "author_id": "user059",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180080",
+    "text": "Cleanup efforts will be massive. We will need a lot of volunteers once the water recedes. #VelloreFloods",
+    "created_at": "2025-10-22T03:55:00.000Z",
+    "author_id": "user060",
+    "location": "Vellore, India",
+    "geo_data": null
+  },
+  {
+    "id": "180081",
+    "text": "The Katpadi railway underpass is completely flooded. It's impassable. #Katpadi #Vellore",
+    "created_at": "2025-10-22T04:10:00.000Z",
+    "author_id": "user061",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1365, 12.9550]}
+  },
+  {
+    "id": "180082",
+    "text": "More food is needed at the Don Bosco shelter in Katpadi. Please contribute if you can. #VelloreHelp",
+    "created_at": "2025-10-22T04:25:00.000Z",
+    "author_id": "user062",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180083",
+    "text": "I saw the army boats rescuing people. Such a relief to see them here. #Vellore",
+    "created_at": "2025-10-22T04:40:00.000Z",
+    "author_id": "user063",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180084",
+    "text": "The prices of essential goods have shot up in the few shops that are open. This is not right.",
+    "created_at": "2025-10-22T04:55:00.000Z",
+    "author_id": "user064",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180085",
+    "text": "Animal rescue teams are needed. Many stray dogs and cattle are stranded. #Vellore #AnimalRescue",
+    "created_at": "2025-10-22T05:10:00.000Z",
+    "author_id": "user065",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180086",
+    "text": "The Fort moat is overflowing. Never seen this happen before.",
+    "created_at": "2025-10-22T05:25:00.000Z",
+    "author_id": "user066",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1332, 12.9160]}
+  },
+  {
+    "id": "180087",
+    "text": "My exams are next week. I hope the situation gets better soon.",
+    "created_at": "2025-10-22T05:40:00.000Z",
+    "author_id": "student",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180088",
+    "text": "We are a group of volunteers with a jeep. We can help transport people or supplies. Contact us. #VelloreHelp",
+    "created_at": "2025-10-22T05:55:00.000Z",
+    "author_id": "volunteer03",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180089",
+    "text": "The government is airdropping food packets in the most affected areas. #VelloreFloods",
+    "created_at": "2025-10-22T06:10:00.000Z",
+    "author_id": "newsupdate",
+    "location": "India",
+    "geo_data": null
+  },
+  {
+    "id": "180090",
+    "text": "The Collector has declared a holiday for all schools and colleges for the next two days.",
+    "created_at": "2025-10-22T06:25:00.000Z",
+    "author_id": "collectorvellore",
+    "location": "Vellore District",
+    "geo_data": null
+  },
+  {
+    "id": "180091",
+    "text": "Finally got through to my parents. They are safe. Thank God.",
+    "created_at": "2025-10-22T06:40:00.000Z",
+    "author_id": "user067",
+    "location": "Bangalore",
+    "geo_data": null
+  },
+  {
+    "id": "180092",
+    "text": "The Saidapet area is a complete disaster zone. It will take weeks to recover.",
+    "created_at": "2025-10-22T06:55:00.000Z",
+    "author_id": "user068",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180093",
+    "text": "The CMC hospital has announced that it is only accepting emergency cases for the next 48 hours. #Vellore #CMC",
+    "created_at": "2025-10-22T07:10:00.000Z",
+    "author_id": "cmchospital",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180094",
+    "text": "I am safe at my friend's house. Thanks to everyone who reached out.",
+    "created_at": "2025-10-22T07:25:00.000Z",
+    "author_id": "user069",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180095",
+    "text": "A huge tree has fallen and blocked the main road in Viruthampet. #VelloreRains",
+    "created_at": "2025-10-22T07:40:00.000Z",
+    "author_id": "user070",
+    "location": "Vellore",
+    "geo_data": {"type": "Point", "coordinates": [79.1150, 12.9050]}
+  },
+  {
+    "id": "180096",
+    "text": "The water is starting to smell. The risk of disease is real. We need medical supplies.",
+    "created_at": "2025-10-22T07:55:00.000Z",
+    "author_id": "user071",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180097",
+    "text": "The local gurudwara is serving langar to everyone, regardless of religion. Humanity at its best. #VelloreHelp",
+    "created_at": "2025-10-22T08:10:00.000Z",
+    "author_id": "user072",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180098",
+    "text": "I'm worried about the stray animals. Hope they are finding safe places.",
+    "created_at": "2025-10-22T08:25:00.000Z",
+    "author_id": "user073",
+    "location": "Vellore",
+    "geo_data": null
+  },
+  {
+    "id": "180099",
+    "text": "The sun is finally out! A sign of hope. #Vellore",
+    "created_at": "2025-10-22T08:40:00.000Z",
+    "author_id": "user074",
+    "location": "Vellore, India",
+    "geo_data": null
+  },
+  {
+    "id": "180100",
+    "text": "Now the real work begins. Rebuilding and recovering from this flood will be a long journey. #VelloreFloods",
+    "created_at": "2025-10-22T08:55:00.000Z",
+    "author_id": "user075",
+    "location": "Vellore",
+    "geo_data": null
+  }
+]
